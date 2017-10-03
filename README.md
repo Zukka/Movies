@@ -1,6 +1,10 @@
 # Movies
 App for display a website of my favorites films.
 
+## Requirements
+
+Tested on Python ver. 2.7.14
+
 ## License
 
 Copyright (c) 2017 Alessandro Bellotti
